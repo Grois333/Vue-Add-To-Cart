@@ -1,3 +1,3 @@
 # Vue.js Add To Cart Ecommerce
 
-### Link to App: https://vue-add-to-cart.surge.sh/cart
+### Link to App: https://vue-add-to-cart.surge.sh/products
